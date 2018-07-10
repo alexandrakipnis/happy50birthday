@@ -12,9 +12,9 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <img src='https://rawgit.com/alexandrakipnis/photos/master/Webp.net-gifmaker%20(1).gif' alt=""/>
+          <img src='https://rawgit.com/alexandrakipnis/photos/master/Webp.net-gifmaker%20(2).gif' alt=""/>
           <h1>Gary Kipnis</h1>
-          <img src='https://rawgit.com/alexandrakipnis/photos/master/Webp.net-gifmaker%20(1).gif' alt=""/>
+          <img src='https://rawgit.com/alexandrakipnis/photos/master/Webp.net-gifmaker%20(2).gif' alt=""/>
         </div>
         <ul className="navLinks">
           <li>
