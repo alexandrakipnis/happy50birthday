@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One%7CGentium+Book+Basic:400,400i');
+
+.Album {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+h2 {
+    color: #9e9e9e;
+    text-decoration: none;
+    font: 400 15px/30px "Gentium Book Basic", serif;
+}

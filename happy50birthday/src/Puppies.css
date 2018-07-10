@@ -1,0 +1,45 @@
+.dog button {
+    color: white;
+    margin-top: 10px;
+    width: 40%;
+    padding: 10px;
+    font-size: 24px;
+    border-radius: 5px;
+    border: 1px solid #01638f;
+    margin-bottom: 50px;
+    background-color: #0184be;
+    font-family: "Gentium Book Basic", serif;
+  }
+
+.dog img {
+    height: 400px;
+    width: 350px;
+    align-content: center;
+    box-align: center;
+}
+
+.selector button {
+    color: white;
+    margin-top: 10px;
+    width: 4%;
+    padding: 3px;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid #01638f;
+    margin-bottom: 50px;
+    background-color: #0184be;
+    font-family: "Gentium Book Basic", serif;
+}
+
+.selector select {
+    border-radius: 4px;
+    padding: 12px 20px;
+    margin: 20px;
+}
+
+.selector label {
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+}
+
