@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://alexandrakipnis.github.io/happy50birthday",
   "dependencies": {
-    "gh-pages": "^1.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-photo-gallery": "^6.0.28",
@@ -19,5 +18,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
   }
 }

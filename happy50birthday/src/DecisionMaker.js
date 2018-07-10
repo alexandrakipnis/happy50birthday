@@ -71,7 +71,7 @@ class DecisionMaker extends React.Component {
                 <h1 className="blah">{this.state.text}</h1>
                 <br/>
                 <button onClick={this.handleClick}>
-                    HELP ME MAKE A DECISION!
+                    MAKE A DECISION!
                 </button>
 
             </div>
