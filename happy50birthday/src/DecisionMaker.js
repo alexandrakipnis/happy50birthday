@@ -52,13 +52,13 @@ class DecisionMaker extends React.Component {
 
         if(num === 8){
             this.setState({
-                text: '011110010110010101110011'
+                text: '011110010110010101110011 (YES)'
             })
         }
 
         if(num === 9){
             this.setState({
-                text: '0110111001101111'
+                text: '0110111001101111 (NO)'
             })
         }
       }
